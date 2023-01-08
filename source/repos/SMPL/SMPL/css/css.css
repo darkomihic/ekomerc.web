@@ -1,0 +1,74 @@
+﻿@font-face {
+    font-family: 'customRegular';
+    src: url('../font/ubuntu-regular.ttf') format('truetype');
+}
+.molimte{
+    color: red;
+}
+.par1{
+    font-family: customRegular;
+}
+
+p {
+    font-family: customRegular;
+}
+
+h1{
+    font-family: customRegular:
+}
+
+h2 {
+    font-family: customRegular:
+}
+
+h3 {
+    font-family: customRegular:
+}
+
+h4 {
+    font-family: customRegular:
+}
+
+h5 {
+    font-family: customRegular:
+}
+
+h6 {
+    font-family: customRegular:
+}
+
+a:link {
+    color: #666666;
+    text-decoration: none;
+}
+
+    a:hover {
+        color: #000000 !important;
+        text-decoration: none !important;
+    }
+
+
+.footerlinks{
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+    .footerlinks:hover{
+        color: gold
+    }
+
+#footer1{
+    background: #5d5d5d
+}
+
+#footer2{
+    background: #000000
+}
+
+.navbar-toggler {
+    margin-left: 90% !important;
+}
+
+.LabelCheckBox {
+    font-family:customRegular;
+}
